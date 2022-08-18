@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/torresomarmx/chess-lib"
+	"github.com/farouk-chessly/chess-lib-temp"
 )
 
 // Cmd is a UCI compliant command

@@ -8,7 +8,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/torresomarmx/chess-lib"
+	"github.com/farouk-chessly/chess-lib-temp"
 )
 
 // BookECO represents the Encyclopedia of Chess Openings https://en.wikipedia.org/wiki/Encyclopaedia_of_Chess_Openings

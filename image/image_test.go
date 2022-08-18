@@ -10,8 +10,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/torresomarmx/chess-lib"
-	"github.com/torresomarmx/chess-lib/image"
+	"github.com/farouk-chessly/chess-lib-temp"
+	"github.com/farouk-chessly/chess-lib-temp/image"
 )
 
 const expectedMD5 = "da140af8b83ce7903915ee39973e36dd"

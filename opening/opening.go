@@ -4,7 +4,7 @@ package opening
 import (
 	"bytes"
 
-	"github.com/torresomarmx/chess-lib"
+	"github.com/farouk-chessly/chess-lib-temp"
 )
 
 // A Opening represents a specific sequence of moves from the staring position.

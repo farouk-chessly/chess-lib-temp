@@ -1,4 +1,4 @@
-module github.com/torresomarmx/chess-lib
+module github.com/farouk-chessly/chess-lib-temp
 
 go 1.14
 
